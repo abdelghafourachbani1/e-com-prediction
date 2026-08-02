@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Product Intelligence — Daily eCommerce Winners</title>
+  <meta name="description" content="AI-powered daily eCommerce product research. Discover winning products before they saturate the market." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .loader{width:40px;height:40px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin 0.8s linear infinite;margin:0 auto}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    #status-bar{display:none;justify-content:center;align-items:center;gap:8px;padding:8px;background:rgba(16,185,129,0.08);border-bottom:1px solid rgba(16,185,129,0.2);font-size:12px;color:var(--green)}
+  </style>
+</head>
+<body>
+
+  <!-- STATUS BAR -->
+  <div id="status-bar">⏳ Fetching live data...</div>
+
+  <!-- NAV -->
+  <nav class="navbar">
+    <div class="nav-brand">
+      <span class="logo-icon">⚡</span>
+      <span class="logo-text">ProductIQ</span>
+      <span class="logo-badge">AI</span>
+    </div>
+    <div class="nav-center">
+      <button class="nav-btn active" data-tab="dashboard">Dashboard</button>
+      <button class="nav-btn" data-tab="hidden-gems">💎 Hidden Gems</button>
+      <button class="nav-btn" data-tab="trends">🔮 Future Trends</button>
+      <button class="nav-btn" data-tab="summary">🏆 Rankings</button>
+    </div>
+    <div class="nav-right">
+      <div class="date-badge" id="live-date"></div>
+      <select class="region-select" id="region-select" title="Select Region">
+        <option value="US">🇺🇸 USA</option>
+        <option value="GB">🇬🇧 UK</option>
+        <option value="CA">🇨🇦 Canada</option>
+        <option value="AU">🇦🇺 Australia</option>
+        <option value="FR">🇫🇷 France</option>
+        <option value="DE">🇩🇪 Germany</option>
+        <option value="AE">🇦🇪 UAE</option>
+        <option value="SA">🇸🇦 Saudi Arabia</option>
+        <option value="MA">🇲🇦 Morocco</option>
+        <option value="DZ">🇩🇿 Algeria</option>
+        <option value="IN">🇮🇳 India</option>
+        <option value="BR">🇧🇷 Brazil</option>
+      </select>
+      <button class="refresh-btn" id="refresh-btn">↻ Refresh Report</button>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-content">
+      <div class="hero-tag">🤖 AI-Powered Market Intelligence</div>
+      <h1>Daily eCommerce<br /><span class="gradient-text">Product Winners</span></h1>
+      <p class="hero-sub">Deep market analysis. Actionable data. Launch-ready insights — every day.</p>
+      <div class="hero-stats">
+        <div class="stat-pill">📦 10 Products Analyzed</div>
+        <div class="stat-pill">💎 5 Hidden Gems</div>
+        <div class="stat-pill">🔮 5 Trend Predictions</div>
+        <div class="stat-pill">📊 13 Score Dimensions</div>
+      </div>
+      <!-- Data sources strip -->
+      <div class="sources-strip">
+        <span class="src-badge src-green">✅ Google Trends</span>
+        <span class="src-badge src-orange">🟠 Reddit</span>
+        <span class="src-badge src-blue">🔵 eBay Sold</span>
+        <span class="src-badge src-red">🔴 AliExpress Orders</span>
+        <span class="src-badge src-purple" id="active-region-badge">📍 USA</span>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="pulse-ring"></div>
+      <div class="hero-score-card">
+        <div class="hsc-label">Today's Top Winner</div>
+        <div class="hsc-product">Lash Lift Kit</div>
+        <div class="hsc-score">88<span>/100</span></div>
+        <div class="hsc-bar"><div class="hsc-fill" style="width:88%"></div></div>
+        <div class="hsc-verdict">✅ STRONG BUY</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TABS CONTENT -->
+  <main class="main-content">
+
+    <!-- DASHBOARD TAB -->
+    <div class="tab-content active" id="tab-dashboard">
+      <!-- Search bar -->
+      <div class="search-bar-wrap">
+        <span class="search-icon">🔍</span>
+        <input
+          id="search-input"
+          class="search-input"
+          type="text"
+          placeholder="Search products, categories, keywords..."
+          autocomplete="off"
+        />
+        <button class="search-clear" id="search-clear" title="Clear search">✕</button>
+      </div>
+
+      <!-- Category Filters -->
+      <div class="filter-bar">
+        <span class="filter-label">Category:</span>
+        <button class="cat-btn filter-btn active" data-filter="all">All Products</button>
+        <button class="cat-btn filter-btn" data-filter="beauty">Beauty</button>
+        <button class="cat-btn filter-btn" data-filter="health">Health</button>
+        <button class="cat-btn filter-btn" data-filter="pet">Pets</button>
+        <button class="cat-btn filter-btn" data-filter="auto">Automotive</button>
+        <button class="cat-btn filter-btn" data-filter="food">Food</button>
+        <div class="sort-wrapper">
+          <span class="filter-label">Sort:</span>
+          <select class="sort-select" id="sort-select">
+            <option value="score">Overall Score</option>
+            <option value="margin">Profit Margin</option>
+            <option value="virality">Virality</option>
+            <option value="competition">Competition (Low)</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Verdict Quick Filter -->
+      <div class="filter-bar" style="padding-top:0;padding-bottom:20px">
+        <span class="filter-label">Verdict:</span>
+        <div id="verdict-bar" style="display:flex;gap:6px;flex-wrap:wrap"></div>
+      </div>
+
+      <!-- Product Grid -->
+      <div class="products-grid" id="products-grid"></div>
+    </div>
+
+    <!-- HIDDEN GEMS TAB -->
+    <div class="tab-content" id="tab-hidden-gems">
+      <div class="section-header">
+        <h2>💎 Hidden Gems</h2>
+        <p>Under-discovered, low competition, high margin, highly brandable products.</p>
+      </div>
+      <div class="gems-grid" id="gems-grid"></div>
+    </div>
+
+    <!-- TRENDS TAB -->
+    <div class="tab-content" id="tab-trends">
+      <div class="section-header">
+        <h2>🔮 Future Trend Predictions</h2>
+        <p>Products likely to trend based on macro consumer behavior signals.</p>
+      </div>
+      <div class="trends-timeline" id="trends-timeline"></div>
+    </div>
+
+    <!-- SUMMARY TAB -->
+    <div class="tab-content" id="tab-summary">
+      <div class="section-header">
+        <h2>🏆 Daily Rankings & Summary</h2>
+        <p>The best picks ranked across multiple dimensions.</p>
+      </div>
+      <div class="summary-grid" id="summary-grid"></div>
+    </div>
+
+  </main>
+
+  <!-- PRODUCT MODAL -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="product-modal">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div class="modal-content" id="modal-content"></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>⚡ ProductIQ AI — Daily eCommerce Intelligence Report | <span id="footer-date"></span></p>
+    <p class="footer-disclaimer">Estimates based on historical market patterns. Not financial advice. Always validate before committing ad spend.</p>
+  </footer>
+
+
+  <script src="app.js"></script>
+</body>
+</html>

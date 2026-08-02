@@ -1,0 +1,1320 @@
+{
+  "generatedAt": "2026-08-02T19:50:57.728Z",
+  "date": "Sunday, August 2, 2026",
+  "geo": "MA",
+  "regionName": "Morocco 🇲🇦",
+  "dataSources": [
+    "Google Trends",
+    "Reddit",
+    "eBay Sold Listings",
+    "AliExpress Orders"
+  ],
+  "products": [
+    {
+      "id": 2,
+      "rank": 1,
+      "name": "Posture Corrector",
+      "category": "Health",
+      "filter": "health",
+      "description": "🔍 Rising searches: \"back posture corrector\", \"posture corrector brace\", \"smart posture corrector\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 45/100 in Morocco 🇲🇦. eBay sold listings score: 54/100. AliExpress order volume: 47/100. Reddit community buzz: 0/100.",
+      "sellPrice": 44.99,
+      "supplierCost": 10,
+      "margin": 78,
+      "shipping": "$5–$10",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 71,
+        "trend": 45,
+        "trendNorm": 73,
+        "demand": 78,
+        "virality": 45,
+        "competition": 42,
+        "profit": 86,
+        "branding": 73,
+        "repeat": 57,
+        "problemSolving": 71,
+        "impulse": 74,
+        "shipping": 80,
+        "evergreen": 72,
+        "gift": 81,
+        "margin": 78,
+        "ebayDemand": 54,
+        "aliOrders": 47,
+        "redditBuzz": 0
+      },
+      "verdict": "YES",
+      "confidence": 79,
+      "verdictReason": "Strong real-time signals: Trend 45/100, eBay demand 54/100, 78% margin. Recommended for Morocco 🇲🇦 market.",
+      "pricing": {
+        "cost": 10,
+        "sell": 44.99,
+        "premium": 58.49,
+        "bundle": 76.48,
+        "anchor": "~~$67.48~~ Now $44.99"
+      },
+      "finance": {
+        "grossMargin": "78%",
+        "netMargin": "34%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$11–$16",
+        "expectedAOV": "$58.49"
+      },
+      "dataSources": {
+        "googleTrends": "45/100 (Morocco 🇲🇦)",
+        "ebayDemand": "54/100 (sold listings)",
+        "aliExpressOrders": "47/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "back posture corrector",
+          "posture corrector brace",
+          "smart posture corrector"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Posture Corrector — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Posture Corrector before it went viral\"",
+        "\"The Posture Corrector hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Posture Corrector — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Posture Corrector — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Posture Corrector is going viral in Morocco 🇲🇦...",
+        "script": "I tried Posture Corrector for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#posturecorrector #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "42%",
+        "sellers": "1050+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=posture%20corrector",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=posture%20corrector",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=posture%20corrector",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=posture%20corrector",
+        "tiktokVideos": "https://www.tiktok.com/search?q=posture%20corrector",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=posture%20corrector",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=posture%20corrector%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 3,
+      "rank": 2,
+      "name": "Car LED Ambient Light",
+      "category": "Automotive",
+      "filter": "auto",
+      "description": "Live data: Google Trends 45/100 · eBay demand 45/100 · AliExpress orders 56/100",
+      "whyBuy": "Real-time signal: Google Trends 45/100 in Morocco 🇲🇦. eBay sold listings score: 45/100. AliExpress order volume: 56/100. Reddit community buzz: 0/100.",
+      "sellPrice": 39.99,
+      "supplierCost": 9,
+      "margin": 77,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 70,
+        "trend": 45,
+        "trendNorm": 73,
+        "demand": 78,
+        "virality": 38,
+        "competition": 43,
+        "profit": 85,
+        "branding": 75,
+        "repeat": 88,
+        "problemSolving": 68,
+        "impulse": 74,
+        "shipping": 95,
+        "evergreen": 90,
+        "gift": 82,
+        "margin": 77,
+        "ebayDemand": 45,
+        "aliOrders": 56,
+        "redditBuzz": 0
+      },
+      "verdict": "YES",
+      "confidence": 78,
+      "verdictReason": "Strong real-time signals: Trend 45/100, eBay demand 45/100, 77% margin. Recommended for Morocco 🇲🇦 market.",
+      "pricing": {
+        "cost": 9,
+        "sell": 39.99,
+        "premium": 51.99,
+        "bundle": 67.98,
+        "anchor": "~~$59.98~~ Now $39.99"
+      },
+      "finance": {
+        "grossMargin": "77%",
+        "netMargin": "34%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$10–$14",
+        "expectedAOV": "$51.99"
+      },
+      "dataSources": {
+        "googleTrends": "45/100 (Morocco 🇲🇦)",
+        "ebayDemand": "45/100 (sold listings)",
+        "aliExpressOrders": "56/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Car LED Ambient Light — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Car LED Ambient Light before it went viral\"",
+        "\"The Car LED Ambient Light hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Car LED Ambient Light — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Car LED Ambient Light — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Car LED Ambient Light is going viral in Morocco 🇲🇦...",
+        "script": "I tried Car LED Ambient Light for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#carledambientlight #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "43%",
+        "sellers": "1075+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=car%20led%20ambient%20light",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=car%20led%20ambient%20light",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=car%20led%20ambient%20light",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=car%20led%20ambient%20light",
+        "tiktokVideos": "https://www.tiktok.com/search?q=car%20led%20ambient%20light",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=car%20led%20ambient%20light",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=car%20led%20ambient%20light%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 5,
+      "rank": 3,
+      "name": "Portable Espresso Maker",
+      "category": "Food",
+      "filter": "food",
+      "description": "Live data: Google Trends 45/100 · eBay demand 59/100 · AliExpress orders 30/100",
+      "whyBuy": "Real-time signal: Google Trends 45/100 in Morocco 🇲🇦. eBay sold listings score: 59/100. AliExpress order volume: 30/100. Reddit community buzz: 0/100.",
+      "sellPrice": 69.99,
+      "supplierCost": 21,
+      "margin": 70,
+      "shipping": "$5–$10",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 70,
+        "trend": 45,
+        "trendNorm": 73,
+        "demand": 75,
+        "virality": 42,
+        "competition": 43,
+        "profit": 78,
+        "branding": 86,
+        "repeat": 72,
+        "problemSolving": 83,
+        "impulse": 62,
+        "shipping": 65,
+        "evergreen": 85,
+        "gift": 62,
+        "margin": 70,
+        "ebayDemand": 59,
+        "aliOrders": 30,
+        "redditBuzz": 0
+      },
+      "verdict": "YES",
+      "confidence": 78,
+      "verdictReason": "Strong real-time signals: Trend 45/100, eBay demand 59/100, 70% margin. Recommended for Morocco 🇲🇦 market.",
+      "pricing": {
+        "cost": 21,
+        "sell": 69.99,
+        "premium": 90.99,
+        "bundle": 118.98,
+        "anchor": "~~$104.98~~ Now $69.99"
+      },
+      "finance": {
+        "grossMargin": "70%",
+        "netMargin": "31%",
+        "breakevenROAS": "2.1×",
+        "targetCPA": "$17–$24",
+        "expectedAOV": "$90.99"
+      },
+      "dataSources": {
+        "googleTrends": "45/100 (Morocco 🇲🇦)",
+        "ebayDemand": "59/100 (sold listings)",
+        "aliExpressOrders": "30/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Portable Espresso Maker — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Portable Espresso Maker before it went viral\"",
+        "\"The Portable Espresso Maker hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Portable Espresso Maker — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Portable Espresso Maker — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Portable Espresso Maker is going viral in Morocco 🇲🇦...",
+        "script": "I tried Portable Espresso Maker for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#portableespressomaker #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "43%",
+        "sellers": "1075+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=portable%20espresso%20maker",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=portable%20espresso%20maker",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=portable%20espresso%20maker",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=portable%20espresso%20maker",
+        "tiktokVideos": "https://www.tiktok.com/search?q=portable%20espresso%20maker",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=portable%20espresso%20maker",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=portable%20espresso%20maker%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 7,
+      "rank": 4,
+      "name": "Electric Scalp Massager",
+      "category": "Beauty",
+      "filter": "beauty",
+      "description": "Live data: Google Trends 45/100 · eBay demand 42/100 · AliExpress orders 42/100",
+      "whyBuy": "Real-time signal: Google Trends 45/100 in Morocco 🇲🇦. eBay sold listings score: 42/100. AliExpress order volume: 42/100. Reddit community buzz: 0/100.",
+      "sellPrice": 29.99,
+      "supplierCost": 7,
+      "margin": 77,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 69,
+        "trend": 45,
+        "trendNorm": 73,
+        "demand": 71,
+        "virality": 49,
+        "competition": 46,
+        "profit": 85,
+        "branding": 70,
+        "repeat": 65,
+        "problemSolving": 76,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 79,
+        "gift": 66,
+        "margin": 77,
+        "ebayDemand": 42,
+        "aliOrders": 42,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 73,
+      "verdictReason": "Moderate signals in Morocco 🇲🇦. Validate further before scaling.",
+      "pricing": {
+        "cost": 7,
+        "sell": 29.99,
+        "premium": 38.99,
+        "bundle": 50.98,
+        "anchor": "~~$44.98~~ Now $29.99"
+      },
+      "finance": {
+        "grossMargin": "77%",
+        "netMargin": "34%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$7–$10",
+        "expectedAOV": "$38.99"
+      },
+      "dataSources": {
+        "googleTrends": "45/100 (Morocco 🇲🇦)",
+        "ebayDemand": "42/100 (sold listings)",
+        "aliExpressOrders": "42/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Electric Scalp Massager — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Electric Scalp Massager before it went viral\"",
+        "\"The Electric Scalp Massager hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Electric Scalp Massager — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Electric Scalp Massager — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Electric Scalp Massager is going viral in Morocco 🇲🇦...",
+        "script": "I tried Electric Scalp Massager for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#electricscalpmassager #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "46%",
+        "sellers": "1150+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=electric%20scalp%20massager",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=electric%20scalp%20massager",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=electric%20scalp%20massager",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=electric%20scalp%20massager",
+        "tiktokVideos": "https://www.tiktok.com/search?q=electric%20scalp%20massager",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=electric%20scalp%20massager",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=electric%20scalp%20massager%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 9,
+      "rank": 5,
+      "name": "UV-C Phone Sanitizer",
+      "category": "Health",
+      "filter": "health",
+      "description": "Live data: Google Trends 45/100 · eBay demand 24/100 · AliExpress orders 38/100",
+      "whyBuy": "Real-time signal: Google Trends 45/100 in Morocco 🇲🇦. eBay sold listings score: 24/100. AliExpress order volume: 38/100. Reddit community buzz: 0/100.",
+      "sellPrice": 29.99,
+      "supplierCost": 8,
+      "margin": 73,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 67,
+        "trend": 45,
+        "trendNorm": 73,
+        "demand": 61,
+        "virality": 48,
+        "competition": 51,
+        "profit": 81,
+        "branding": 92,
+        "repeat": 56,
+        "problemSolving": 69,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 81,
+        "gift": 61,
+        "margin": 73,
+        "ebayDemand": 24,
+        "aliOrders": 38,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 71,
+      "verdictReason": "Moderate signals in Morocco 🇲🇦. Validate further before scaling.",
+      "pricing": {
+        "cost": 8,
+        "sell": 29.99,
+        "premium": 38.99,
+        "bundle": 50.98,
+        "anchor": "~~$44.98~~ Now $29.99"
+      },
+      "finance": {
+        "grossMargin": "73%",
+        "netMargin": "32%",
+        "breakevenROAS": "2.1×",
+        "targetCPA": "$7–$10",
+        "expectedAOV": "$38.99"
+      },
+      "dataSources": {
+        "googleTrends": "45/100 (Morocco 🇲🇦)",
+        "ebayDemand": "24/100 (sold listings)",
+        "aliExpressOrders": "38/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"UV-C Phone Sanitizer — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered UV-C Phone Sanitizer before it went viral\"",
+        "\"The UV-C Phone Sanitizer hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover UV-C Phone Sanitizer — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "UV-C Phone Sanitizer — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This UV-C Phone Sanitizer is going viral in Morocco 🇲🇦...",
+        "script": "I tried UV-C Phone Sanitizer for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#uvphonesanitizer #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "51%",
+        "sellers": "1275+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=uv%20phone%20sanitizer",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=uv%20phone%20sanitizer",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=uv%20phone%20sanitizer",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=uv%20phone%20sanitizer",
+        "tiktokVideos": "https://www.tiktok.com/search?q=uv%20phone%20sanitizer",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=uv%20phone%20sanitizer",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=uv%20phone%20sanitizer%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 4,
+      "rank": 6,
+      "name": "Pet Water Fountain",
+      "category": "Pets",
+      "filter": "pet",
+      "description": "Live data: Google Trends 45/100 · eBay demand 26/100 · AliExpress orders 52/100",
+      "whyBuy": "Real-time signal: Google Trends 45/100 in Morocco 🇲🇦. eBay sold listings score: 26/100. AliExpress order volume: 52/100. Reddit community buzz: 0/100.",
+      "sellPrice": 49.99,
+      "supplierCost": 16,
+      "margin": 68,
+      "shipping": "$5–$10",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": false,
+      "bundle": true,
+      "scores": {
+        "overall": 65,
+        "trend": 45,
+        "trendNorm": 73,
+        "demand": 67,
+        "virality": 43,
+        "competition": 49,
+        "profit": 76,
+        "branding": 74,
+        "repeat": 83,
+        "problemSolving": 83,
+        "impulse": 74,
+        "shipping": 80,
+        "evergreen": 93,
+        "gift": 65,
+        "margin": 68,
+        "ebayDemand": 26,
+        "aliOrders": 52,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 69,
+      "verdictReason": "Moderate signals in Morocco 🇲🇦. Validate further before scaling.",
+      "pricing": {
+        "cost": 16,
+        "sell": 49.99,
+        "premium": 64.99,
+        "bundle": 84.98,
+        "anchor": "~~$74.98~~ Now $49.99"
+      },
+      "finance": {
+        "grossMargin": "68%",
+        "netMargin": "30%",
+        "breakevenROAS": "2.2×",
+        "targetCPA": "$12–$17",
+        "expectedAOV": "$64.99"
+      },
+      "dataSources": {
+        "googleTrends": "45/100 (Morocco 🇲🇦)",
+        "ebayDemand": "26/100 (sold listings)",
+        "aliExpressOrders": "52/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Pet Water Fountain — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Pet Water Fountain before it went viral\"",
+        "\"The Pet Water Fountain hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Pet Water Fountain — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Pet Water Fountain — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Pet Water Fountain is going viral in Morocco 🇲🇦...",
+        "script": "I tried Pet Water Fountain for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#petwaterfountain #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "49%",
+        "sellers": "1225+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=pet%20water%20fountain",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=pet%20water%20fountain",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=pet%20water%20fountain",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=pet%20water%20fountain",
+        "tiktokVideos": "https://www.tiktok.com/search?q=pet%20water%20fountain",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=pet%20water%20fountain",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=pet%20water%20fountain%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 6,
+      "rank": 7,
+      "name": "Mushroom Coffee",
+      "category": "Food",
+      "filter": "food",
+      "description": "🔍 Rising searches: \"ryze mushroom coffee\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 0/100 in Morocco 🇲🇦. eBay sold listings score: 56/100. AliExpress order volume: 32/100. Reddit community buzz: 0/100.",
+      "sellPrice": 34.99,
+      "supplierCost": 6,
+      "margin": 83,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 50,
+        "trend": 0,
+        "trendNorm": 10,
+        "demand": 52,
+        "virality": 16,
+        "competition": 59,
+        "profit": 91,
+        "branding": 78,
+        "repeat": 63,
+        "problemSolving": 83,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 89,
+        "gift": 85,
+        "margin": 83,
+        "ebayDemand": 56,
+        "aliOrders": 32,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 54,
+      "verdictReason": "Moderate signals in Morocco 🇲🇦. Validate further before scaling.",
+      "pricing": {
+        "cost": 6,
+        "sell": 34.99,
+        "premium": 45.49,
+        "bundle": 59.48,
+        "anchor": "~~$52.48~~ Now $34.99"
+      },
+      "finance": {
+        "grossMargin": "83%",
+        "netMargin": "37%",
+        "breakevenROAS": "1.8×",
+        "targetCPA": "$9–$12",
+        "expectedAOV": "$45.49"
+      },
+      "dataSources": {
+        "googleTrends": "0/100 (Morocco 🇲🇦)",
+        "ebayDemand": "56/100 (sold listings)",
+        "aliExpressOrders": "32/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "ryze mushroom coffee"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Mushroom Coffee — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Mushroom Coffee before it went viral\"",
+        "\"The Mushroom Coffee hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Mushroom Coffee — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Mushroom Coffee — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Mushroom Coffee is going viral in Morocco 🇲🇦...",
+        "script": "I tried Mushroom Coffee for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#mushroomcoffee #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "59%",
+        "sellers": "1475+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=mushroom%20coffee",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=mushroom%20coffee",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=mushroom%20coffee",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=mushroom%20coffee",
+        "tiktokVideos": "https://www.tiktok.com/search?q=mushroom%20coffee",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=mushroom%20coffee",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=mushroom%20coffee%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 8,
+      "rank": 8,
+      "name": "Beeswax Food Wraps",
+      "category": "Eco",
+      "filter": "food",
+      "description": "Live data: Google Trends 0/100 · eBay demand 42/100 · AliExpress orders 56/100",
+      "whyBuy": "Real-time signal: Google Trends 0/100 in Morocco 🇲🇦. eBay sold listings score: 42/100. AliExpress order volume: 56/100. Reddit community buzz: 0/100.",
+      "sellPrice": 24.99,
+      "supplierCost": 5,
+      "margin": 80,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 50,
+        "trend": 0,
+        "trendNorm": 10,
+        "demand": 54,
+        "virality": 19,
+        "competition": 60,
+        "profit": 88,
+        "branding": 79,
+        "repeat": 89,
+        "problemSolving": 89,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 85,
+        "gift": 58,
+        "margin": 80,
+        "ebayDemand": 42,
+        "aliOrders": 56,
+        "redditBuzz": 0
+      },
+      "verdict": "NO",
+      "confidence": 50,
+      "verdictReason": "Moderate signals in Morocco 🇲🇦. Validate further before scaling.",
+      "pricing": {
+        "cost": 5,
+        "sell": 24.99,
+        "premium": 32.49,
+        "bundle": 42.48,
+        "anchor": "~~$37.48~~ Now $24.99"
+      },
+      "finance": {
+        "grossMargin": "80%",
+        "netMargin": "35%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$6–$9",
+        "expectedAOV": "$32.49"
+      },
+      "dataSources": {
+        "googleTrends": "0/100 (Morocco 🇲🇦)",
+        "ebayDemand": "42/100 (sold listings)",
+        "aliExpressOrders": "56/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Beeswax Food Wraps — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Beeswax Food Wraps before it went viral\"",
+        "\"The Beeswax Food Wraps hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Beeswax Food Wraps — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Beeswax Food Wraps — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Beeswax Food Wraps is going viral in Morocco 🇲🇦...",
+        "script": "I tried Beeswax Food Wraps for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#beeswaxfoodwrap #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "60%",
+        "sellers": "1500+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=beeswax%20food%20wrap",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=beeswax%20food%20wrap",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=beeswax%20food%20wrap",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=beeswax%20food%20wrap",
+        "tiktokVideos": "https://www.tiktok.com/search?q=beeswax%20food%20wrap",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=beeswax%20food%20wrap",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=beeswax%20food%20wrap%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 10,
+      "rank": 9,
+      "name": "Baby Silicone Mat",
+      "category": "Baby",
+      "filter": "health",
+      "description": "Live data: Google Trends 0/100 · eBay demand 48/100 · AliExpress orders 38/100",
+      "whyBuy": "Real-time signal: Google Trends 0/100 in Morocco 🇲🇦. eBay sold listings score: 48/100. AliExpress order volume: 38/100. Reddit community buzz: 0/100.",
+      "sellPrice": 27.99,
+      "supplierCost": 6,
+      "margin": 79,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 49,
+        "trend": 0,
+        "trendNorm": 10,
+        "demand": 50,
+        "virality": 19,
+        "competition": 60,
+        "profit": 87,
+        "branding": 85,
+        "repeat": 55,
+        "problemSolving": 83,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 84,
+        "gift": 67,
+        "margin": 79,
+        "ebayDemand": 48,
+        "aliOrders": 38,
+        "redditBuzz": 0
+      },
+      "verdict": "NO",
+      "confidence": 49,
+      "verdictReason": "Moderate signals in Morocco 🇲🇦. Validate further before scaling.",
+      "pricing": {
+        "cost": 6,
+        "sell": 27.99,
+        "premium": 36.39,
+        "bundle": 47.58,
+        "anchor": "~~$41.98~~ Now $27.99"
+      },
+      "finance": {
+        "grossMargin": "79%",
+        "netMargin": "35%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$7–$10",
+        "expectedAOV": "$36.39"
+      },
+      "dataSources": {
+        "googleTrends": "0/100 (Morocco 🇲🇦)",
+        "ebayDemand": "48/100 (sold listings)",
+        "aliExpressOrders": "38/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Baby Silicone Mat — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Baby Silicone Mat before it went viral\"",
+        "\"The Baby Silicone Mat hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Baby Silicone Mat — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Baby Silicone Mat — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Baby Silicone Mat is going viral in Morocco 🇲🇦...",
+        "script": "I tried Baby Silicone Mat for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#siliconebabymatsuction #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "60%",
+        "sellers": "1500+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=silicone%20baby%20mat%20suction",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=silicone%20baby%20mat%20suction",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=silicone%20baby%20mat%20suction",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=silicone%20baby%20mat%20suction",
+        "tiktokVideos": "https://www.tiktok.com/search?q=silicone%20baby%20mat%20suction",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=silicone%20baby%20mat%20suction",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=silicone%20baby%20mat%20suction%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    },
+    {
+      "id": 1,
+      "rank": 10,
+      "name": "Lash Lift Kit",
+      "category": "Beauty",
+      "filter": "beauty",
+      "description": "Live data: Google Trends 0/100 · eBay demand 20/100 · AliExpress orders 33/100",
+      "whyBuy": "Real-time signal: Google Trends 0/100 in Morocco 🇲🇦. eBay sold listings score: 20/100. AliExpress order volume: 33/100. Reddit community buzz: 0/100.",
+      "sellPrice": 39.99,
+      "supplierCost": 7.5,
+      "margin": 81,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 43,
+        "trend": 0,
+        "trendNorm": 10,
+        "demand": 36,
+        "virality": 11,
+        "competition": 68,
+        "profit": 89,
+        "branding": 77,
+        "repeat": 80,
+        "problemSolving": 69,
+        "impulse": 74,
+        "shipping": 95,
+        "evergreen": 75,
+        "gift": 71,
+        "margin": 81,
+        "ebayDemand": 20,
+        "aliOrders": 33,
+        "redditBuzz": 0
+      },
+      "verdict": "NO",
+      "confidence": 43,
+      "verdictReason": "Moderate signals in Morocco 🇲🇦. Validate further before scaling.",
+      "pricing": {
+        "cost": 7.5,
+        "sell": 39.99,
+        "premium": 51.99,
+        "bundle": 67.98,
+        "anchor": "~~$59.98~~ Now $39.99"
+      },
+      "finance": {
+        "grossMargin": "81%",
+        "netMargin": "36%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$10–$14",
+        "expectedAOV": "$51.99"
+      },
+      "dataSources": {
+        "googleTrends": "0/100 (Morocco 🇲🇦)",
+        "ebayDemand": "20/100 (sold listings)",
+        "aliExpressOrders": "33/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "high"
+        }
+      ],
+      "hooks": [
+        "\"Lash Lift Kit — watch what happened after 7 days\" (Trending in Morocco 🇲🇦)",
+        "\"POV: You discovered Lash Lift Kit before it went viral\"",
+        "\"The Lash Lift Kit hack everyone in Morocco 🇲🇦 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Lash Lift Kit — trending now in Morocco 🇲🇦. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Lash Lift Kit — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Lash Lift Kit is going viral in Morocco 🇲🇦...",
+        "script": "I tried Lash Lift Kit for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#lashliftkit #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "High",
+        "saturation": "68%",
+        "sellers": "1700+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=lash%20lift%20kit",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=lash%20lift%20kit",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=lash%20lift%20kit",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=lash%20lift%20kit",
+        "tiktokVideos": "https://www.tiktok.com/search?q=lash%20lift%20kit",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=MA&q=lash%20lift%20kit",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=lash%20lift%20kit%20ad%20video"
+      },
+      "region": "MA",
+      "regionName": "Morocco 🇲🇦"
+    }
+  ]
+}

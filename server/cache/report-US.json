@@ -1,0 +1,1342 @@
+{
+  "generatedAt": "2026-08-02T19:43:18.352Z",
+  "date": "Sunday, August 2, 2026",
+  "geo": "US",
+  "regionName": "United States 🇺🇸",
+  "dataSources": [
+    "Google Trends",
+    "Reddit",
+    "eBay Sold Listings",
+    "AliExpress Orders"
+  ],
+  "products": [
+    {
+      "id": 6,
+      "rank": 1,
+      "name": "Mushroom Coffee",
+      "category": "Food",
+      "filter": "food",
+      "description": "🔍 Rising searches: \"ryze\", \"ryze mushroom coffee\", \"ryze coffee\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 58/100 in United States 🇺🇸. eBay sold listings score: 38/100. AliExpress order volume: 57/100. Reddit community buzz: 0/100.",
+      "sellPrice": 34.99,
+      "supplierCost": 6,
+      "margin": 83,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 79,
+        "trend": 58,
+        "trendNorm": 91,
+        "demand": 81,
+        "virality": 58,
+        "competition": 41,
+        "profit": 91,
+        "branding": 79,
+        "repeat": 83,
+        "problemSolving": 86,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 88,
+        "gift": 72,
+        "margin": 83,
+        "ebayDemand": 38,
+        "aliOrders": 57,
+        "redditBuzz": 0
+      },
+      "verdict": "YES",
+      "confidence": 87,
+      "verdictReason": "Strong real-time signals: Trend 58/100, eBay demand 38/100, 83% margin. Recommended for United States 🇺🇸 market.",
+      "pricing": {
+        "cost": 6,
+        "sell": 34.99,
+        "premium": 45.49,
+        "bundle": 59.48,
+        "anchor": "~~$52.48~~ Now $34.99"
+      },
+      "finance": {
+        "grossMargin": "83%",
+        "netMargin": "37%",
+        "breakevenROAS": "1.8×",
+        "targetCPA": "$9–$12",
+        "expectedAOV": "$45.49"
+      },
+      "dataSources": {
+        "googleTrends": "58/100 (United States 🇺🇸)",
+        "ebayDemand": "38/100 (sold listings)",
+        "aliExpressOrders": "57/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "ryze",
+          "ryze mushroom coffee",
+          "ryze coffee"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Mushroom Coffee — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Mushroom Coffee before it went viral\"",
+        "\"The Mushroom Coffee hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Mushroom Coffee — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Mushroom Coffee — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Mushroom Coffee is going viral in United States 🇺🇸...",
+        "script": "I tried Mushroom Coffee for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#mushroomcoffee #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "41%",
+        "sellers": "1025+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=mushroom%20coffee",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=mushroom%20coffee",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=mushroom%20coffee",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=mushroom%20coffee",
+        "tiktokVideos": "https://www.tiktok.com/search?q=mushroom%20coffee",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=mushroom%20coffee",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=mushroom%20coffee%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 1,
+      "rank": 2,
+      "name": "Lash Lift Kit",
+      "category": "Beauty",
+      "filter": "beauty",
+      "description": "Live data: Google Trends 63/100 · eBay demand 36/100 · AliExpress orders 42/100",
+      "whyBuy": "Real-time signal: Google Trends 63/100 in United States 🇺🇸. eBay sold listings score: 36/100. AliExpress order volume: 42/100. Reddit community buzz: 0/100.",
+      "sellPrice": 39.99,
+      "supplierCost": 7.5,
+      "margin": 81,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 77,
+        "trend": 63,
+        "trendNorm": 98,
+        "demand": 77,
+        "virality": 58,
+        "competition": 41,
+        "profit": 89,
+        "branding": 62,
+        "repeat": 77,
+        "problemSolving": 79,
+        "impulse": 74,
+        "shipping": 95,
+        "evergreen": 70,
+        "gift": 79,
+        "margin": 81,
+        "ebayDemand": 36,
+        "aliOrders": 42,
+        "redditBuzz": 0
+      },
+      "verdict": "YES",
+      "confidence": 85,
+      "verdictReason": "Strong real-time signals: Trend 63/100, eBay demand 36/100, 81% margin. Recommended for United States 🇺🇸 market.",
+      "pricing": {
+        "cost": 7.5,
+        "sell": 39.99,
+        "premium": 51.99,
+        "bundle": 67.98,
+        "anchor": "~~$59.98~~ Now $39.99"
+      },
+      "finance": {
+        "grossMargin": "81%",
+        "netMargin": "36%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$10–$14",
+        "expectedAOV": "$51.99"
+      },
+      "dataSources": {
+        "googleTrends": "63/100 (United States 🇺🇸)",
+        "ebayDemand": "36/100 (sold listings)",
+        "aliExpressOrders": "42/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Lash Lift Kit — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Lash Lift Kit before it went viral\"",
+        "\"The Lash Lift Kit hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Lash Lift Kit — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Lash Lift Kit — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Lash Lift Kit is going viral in United States 🇺🇸...",
+        "script": "I tried Lash Lift Kit for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#lashliftkit #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "41%",
+        "sellers": "1025+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=lash%20lift%20kit",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=lash%20lift%20kit",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=lash%20lift%20kit",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=lash%20lift%20kit",
+        "tiktokVideos": "https://www.tiktok.com/search?q=lash%20lift%20kit",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=lash%20lift%20kit",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=lash%20lift%20kit%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 7,
+      "rank": 3,
+      "name": "Electric Scalp Massager",
+      "category": "Beauty",
+      "filter": "beauty",
+      "description": "🔍 Rising searches: \"head massager\", \"scalp massage\", \"electric scalp massager for hair growth\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 44/100 in United States 🇺🇸. eBay sold listings score: 49/100. AliExpress order volume: 56/100. Reddit community buzz: 0/100.",
+      "sellPrice": 29.99,
+      "supplierCost": 7,
+      "margin": 77,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 73,
+        "trend": 44,
+        "trendNorm": 72,
+        "demand": 79,
+        "virality": 47,
+        "competition": 43,
+        "profit": 85,
+        "branding": 89,
+        "repeat": 74,
+        "problemSolving": 70,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 79,
+        "gift": 75,
+        "margin": 77,
+        "ebayDemand": 49,
+        "aliOrders": 56,
+        "redditBuzz": 0
+      },
+      "verdict": "YES",
+      "confidence": 81,
+      "verdictReason": "Strong real-time signals: Trend 44/100, eBay demand 49/100, 77% margin. Recommended for United States 🇺🇸 market.",
+      "pricing": {
+        "cost": 7,
+        "sell": 29.99,
+        "premium": 38.99,
+        "bundle": 50.98,
+        "anchor": "~~$44.98~~ Now $29.99"
+      },
+      "finance": {
+        "grossMargin": "77%",
+        "netMargin": "34%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$7–$10",
+        "expectedAOV": "$38.99"
+      },
+      "dataSources": {
+        "googleTrends": "44/100 (United States 🇺🇸)",
+        "ebayDemand": "49/100 (sold listings)",
+        "aliExpressOrders": "56/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "head massager",
+          "scalp massage",
+          "electric scalp massager for hair growth"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Electric Scalp Massager — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Electric Scalp Massager before it went viral\"",
+        "\"The Electric Scalp Massager hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Electric Scalp Massager — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Electric Scalp Massager — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Electric Scalp Massager is going viral in United States 🇺🇸...",
+        "script": "I tried Electric Scalp Massager for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#electricscalpmassager #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "43%",
+        "sellers": "1075+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=electric%20scalp%20massager",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=electric%20scalp%20massager",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=electric%20scalp%20massager",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=electric%20scalp%20massager",
+        "tiktokVideos": "https://www.tiktok.com/search?q=electric%20scalp%20massager",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=electric%20scalp%20massager",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=electric%20scalp%20massager%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 10,
+      "rank": 4,
+      "name": "Baby Silicone Mat",
+      "category": "Baby",
+      "filter": "health",
+      "description": "Live data: Google Trends 45/100 · eBay demand 37/100 · AliExpress orders 58/100",
+      "whyBuy": "Real-time signal: Google Trends 45/100 in United States 🇺🇸. eBay sold listings score: 37/100. AliExpress order volume: 58/100. Reddit community buzz: 0/100.",
+      "sellPrice": 27.99,
+      "supplierCost": 6,
+      "margin": 79,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 72,
+        "trend": 45,
+        "trendNorm": 73,
+        "demand": 75,
+        "virality": 53,
+        "competition": 45,
+        "profit": 87,
+        "branding": 84,
+        "repeat": 58,
+        "problemSolving": 67,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 81,
+        "gift": 69,
+        "margin": 79,
+        "ebayDemand": 37,
+        "aliOrders": 58,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 76,
+      "verdictReason": "Moderate signals in United States 🇺🇸. Validate further before scaling.",
+      "pricing": {
+        "cost": 6,
+        "sell": 27.99,
+        "premium": 36.39,
+        "bundle": 47.58,
+        "anchor": "~~$41.98~~ Now $27.99"
+      },
+      "finance": {
+        "grossMargin": "79%",
+        "netMargin": "35%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$7–$10",
+        "expectedAOV": "$36.39"
+      },
+      "dataSources": {
+        "googleTrends": "45/100 (United States 🇺🇸)",
+        "ebayDemand": "37/100 (sold listings)",
+        "aliExpressOrders": "58/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Baby Silicone Mat — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Baby Silicone Mat before it went viral\"",
+        "\"The Baby Silicone Mat hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Baby Silicone Mat — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Baby Silicone Mat — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Baby Silicone Mat is going viral in United States 🇺🇸...",
+        "script": "I tried Baby Silicone Mat for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#siliconebabymatsuction #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "45%",
+        "sellers": "1125+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=silicone%20baby%20mat%20suction",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=silicone%20baby%20mat%20suction",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=silicone%20baby%20mat%20suction",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=silicone%20baby%20mat%20suction",
+        "tiktokVideos": "https://www.tiktok.com/search?q=silicone%20baby%20mat%20suction",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=silicone%20baby%20mat%20suction",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=silicone%20baby%20mat%20suction%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 2,
+      "rank": 5,
+      "name": "Posture Corrector",
+      "category": "Health",
+      "filter": "health",
+      "description": "🔍 Rising searches: \"posture corrector brace\", \"back brace\", \"back posture brace\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 43/100 in United States 🇺🇸. eBay sold listings score: 32/100. AliExpress order volume: 39/100. Reddit community buzz: 0/100.",
+      "sellPrice": 44.99,
+      "supplierCost": 10,
+      "margin": 78,
+      "shipping": "$5–$10",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 68,
+        "trend": 43,
+        "trendNorm": 70,
+        "demand": 65,
+        "virality": 52,
+        "competition": 49,
+        "profit": 86,
+        "branding": 78,
+        "repeat": 68,
+        "problemSolving": 80,
+        "impulse": 74,
+        "shipping": 80,
+        "evergreen": 72,
+        "gift": 85,
+        "margin": 78,
+        "ebayDemand": 32,
+        "aliOrders": 39,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 72,
+      "verdictReason": "Moderate signals in United States 🇺🇸. Validate further before scaling.",
+      "pricing": {
+        "cost": 10,
+        "sell": 44.99,
+        "premium": 58.49,
+        "bundle": 76.48,
+        "anchor": "~~$67.48~~ Now $44.99"
+      },
+      "finance": {
+        "grossMargin": "78%",
+        "netMargin": "34%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$11–$16",
+        "expectedAOV": "$58.49"
+      },
+      "dataSources": {
+        "googleTrends": "43/100 (United States 🇺🇸)",
+        "ebayDemand": "32/100 (sold listings)",
+        "aliExpressOrders": "39/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "posture corrector brace",
+          "back brace",
+          "back posture brace"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Posture Corrector — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Posture Corrector before it went viral\"",
+        "\"The Posture Corrector hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Posture Corrector — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Posture Corrector — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Posture Corrector is going viral in United States 🇺🇸...",
+        "script": "I tried Posture Corrector for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#posturecorrector #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "49%",
+        "sellers": "1225+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=posture%20corrector",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=posture%20corrector",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=posture%20corrector",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=posture%20corrector",
+        "tiktokVideos": "https://www.tiktok.com/search?q=posture%20corrector",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=posture%20corrector",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=posture%20corrector%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 4,
+      "rank": 6,
+      "name": "Pet Water Fountain",
+      "category": "Pets",
+      "filter": "pet",
+      "description": "🔍 Rising searches: \"dog water fountain\", \"dog fountain\", \"dog pet water fountain\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 36/100 in United States 🇺🇸. eBay sold listings score: 30/100. AliExpress order volume: 32/100. Reddit community buzz: 0/100.",
+      "sellPrice": 49.99,
+      "supplierCost": 16,
+      "margin": 68,
+      "shipping": "$5–$10",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": false,
+      "bundle": true,
+      "scores": {
+        "overall": 60,
+        "trend": 36,
+        "trendNorm": 60,
+        "demand": 57,
+        "virality": 31,
+        "competition": 53,
+        "profit": 76,
+        "branding": 88,
+        "repeat": 73,
+        "problemSolving": 71,
+        "impulse": 74,
+        "shipping": 80,
+        "evergreen": 79,
+        "gift": 83,
+        "margin": 68,
+        "ebayDemand": 30,
+        "aliOrders": 32,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 64,
+      "verdictReason": "Moderate signals in United States 🇺🇸. Validate further before scaling.",
+      "pricing": {
+        "cost": 16,
+        "sell": 49.99,
+        "premium": 64.99,
+        "bundle": 84.98,
+        "anchor": "~~$74.98~~ Now $49.99"
+      },
+      "finance": {
+        "grossMargin": "68%",
+        "netMargin": "30%",
+        "breakevenROAS": "2.2×",
+        "targetCPA": "$12–$17",
+        "expectedAOV": "$64.99"
+      },
+      "dataSources": {
+        "googleTrends": "36/100 (United States 🇺🇸)",
+        "ebayDemand": "30/100 (sold listings)",
+        "aliExpressOrders": "32/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "dog water fountain",
+          "dog fountain",
+          "dog pet water fountain"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Pet Water Fountain — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Pet Water Fountain before it went viral\"",
+        "\"The Pet Water Fountain hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Pet Water Fountain — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Pet Water Fountain — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Pet Water Fountain is going viral in United States 🇺🇸...",
+        "script": "I tried Pet Water Fountain for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#petwaterfountain #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "53%",
+        "sellers": "1325+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=pet%20water%20fountain",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=pet%20water%20fountain",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=pet%20water%20fountain",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=pet%20water%20fountain",
+        "tiktokVideos": "https://www.tiktok.com/search?q=pet%20water%20fountain",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=pet%20water%20fountain",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=pet%20water%20fountain%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 9,
+      "rank": 7,
+      "name": "UV-C Phone Sanitizer",
+      "category": "Health",
+      "filter": "health",
+      "description": "🔍 Rising searches: \"sharper image uv phone sanitizer\", \"uv phone sanitizer reviews\", \"uv phone sanitizer amazon\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 28/100 in United States 🇺🇸. eBay sold listings score: 37/100. AliExpress order volume: 38/100. Reddit community buzz: 0/100.",
+      "sellPrice": 29.99,
+      "supplierCost": 8,
+      "margin": 73,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 60,
+        "trend": 28,
+        "trendNorm": 49,
+        "demand": 59,
+        "virality": 40,
+        "competition": 54,
+        "profit": 81,
+        "branding": 79,
+        "repeat": 83,
+        "problemSolving": 72,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 88,
+        "gift": 87,
+        "margin": 73,
+        "ebayDemand": 37,
+        "aliOrders": 38,
+        "redditBuzz": 0
+      },
+      "verdict": "MAYBE",
+      "confidence": 64,
+      "verdictReason": "Moderate signals in United States 🇺🇸. Validate further before scaling.",
+      "pricing": {
+        "cost": 8,
+        "sell": 29.99,
+        "premium": 38.99,
+        "bundle": 50.98,
+        "anchor": "~~$44.98~~ Now $29.99"
+      },
+      "finance": {
+        "grossMargin": "73%",
+        "netMargin": "32%",
+        "breakevenROAS": "2.1×",
+        "targetCPA": "$7–$10",
+        "expectedAOV": "$38.99"
+      },
+      "dataSources": {
+        "googleTrends": "28/100 (United States 🇺🇸)",
+        "ebayDemand": "37/100 (sold listings)",
+        "aliExpressOrders": "38/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "sharper image uv phone sanitizer",
+          "uv phone sanitizer reviews",
+          "uv phone sanitizer amazon"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"UV-C Phone Sanitizer — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered UV-C Phone Sanitizer before it went viral\"",
+        "\"The UV-C Phone Sanitizer hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover UV-C Phone Sanitizer — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "UV-C Phone Sanitizer — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This UV-C Phone Sanitizer is going viral in United States 🇺🇸...",
+        "script": "I tried UV-C Phone Sanitizer for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#uvphonesanitizer #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "54%",
+        "sellers": "1350+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=uv%20phone%20sanitizer",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=uv%20phone%20sanitizer",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=uv%20phone%20sanitizer",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=uv%20phone%20sanitizer",
+        "tiktokVideos": "https://www.tiktok.com/search?q=uv%20phone%20sanitizer",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=uv%20phone%20sanitizer",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=uv%20phone%20sanitizer%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 5,
+      "rank": 8,
+      "name": "Portable Espresso Maker",
+      "category": "Food",
+      "filter": "food",
+      "description": "🔍 Rising searches: \"portable coffee maker\", \"espresso machine\", \"portable espresso machine\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 21/100 in United States 🇺🇸. eBay sold listings score: 30/100. AliExpress order volume: 57/100. Reddit community buzz: 0/100.",
+      "sellPrice": 69.99,
+      "supplierCost": 21,
+      "margin": 70,
+      "shipping": "$5–$10",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 55,
+        "trend": 21,
+        "trendNorm": 39,
+        "demand": 59,
+        "virality": 34,
+        "competition": 56,
+        "profit": 78,
+        "branding": 66,
+        "repeat": 57,
+        "problemSolving": 90,
+        "impulse": 62,
+        "shipping": 65,
+        "evergreen": 72,
+        "gift": 62,
+        "margin": 70,
+        "ebayDemand": 30,
+        "aliOrders": 57,
+        "redditBuzz": 0
+      },
+      "verdict": "NO",
+      "confidence": 55,
+      "verdictReason": "Moderate signals in United States 🇺🇸. Validate further before scaling.",
+      "pricing": {
+        "cost": 21,
+        "sell": 69.99,
+        "premium": 90.99,
+        "bundle": 118.98,
+        "anchor": "~~$104.98~~ Now $69.99"
+      },
+      "finance": {
+        "grossMargin": "70%",
+        "netMargin": "31%",
+        "breakevenROAS": "2.1×",
+        "targetCPA": "$17–$24",
+        "expectedAOV": "$90.99"
+      },
+      "dataSources": {
+        "googleTrends": "21/100 (United States 🇺🇸)",
+        "ebayDemand": "30/100 (sold listings)",
+        "aliExpressOrders": "57/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "portable coffee maker",
+          "espresso machine",
+          "portable espresso machine"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Portable Espresso Maker — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Portable Espresso Maker before it went viral\"",
+        "\"The Portable Espresso Maker hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Portable Espresso Maker — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Portable Espresso Maker — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Portable Espresso Maker is going viral in United States 🇺🇸...",
+        "script": "I tried Portable Espresso Maker for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#portableespressomaker #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "56%",
+        "sellers": "1400+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=portable%20espresso%20maker",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=portable%20espresso%20maker",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=portable%20espresso%20maker",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=portable%20espresso%20maker",
+        "tiktokVideos": "https://www.tiktok.com/search?q=portable%20espresso%20maker",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=portable%20espresso%20maker",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=portable%20espresso%20maker%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 3,
+      "rank": 9,
+      "name": "Car LED Ambient Light",
+      "category": "Automotive",
+      "filter": "auto",
+      "description": "Live data: Google Trends 0/100 · eBay demand 51/100 · AliExpress orders 39/100",
+      "whyBuy": "Real-time signal: Google Trends 0/100 in United States 🇺🇸. eBay sold listings score: 51/100. AliExpress order volume: 39/100. Reddit community buzz: 0/100.",
+      "sellPrice": 39.99,
+      "supplierCost": 9,
+      "margin": 77,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 50,
+        "trend": 0,
+        "trendNorm": 10,
+        "demand": 52,
+        "virality": 27,
+        "competition": 60,
+        "profit": 85,
+        "branding": 84,
+        "repeat": 82,
+        "problemSolving": 75,
+        "impulse": 74,
+        "shipping": 95,
+        "evergreen": 83,
+        "gift": 68,
+        "margin": 77,
+        "ebayDemand": 51,
+        "aliOrders": 39,
+        "redditBuzz": 0
+      },
+      "verdict": "NO",
+      "confidence": 50,
+      "verdictReason": "Moderate signals in United States 🇺🇸. Validate further before scaling.",
+      "pricing": {
+        "cost": 9,
+        "sell": 39.99,
+        "premium": 51.99,
+        "bundle": 67.98,
+        "anchor": "~~$59.98~~ Now $39.99"
+      },
+      "finance": {
+        "grossMargin": "77%",
+        "netMargin": "34%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$10–$14",
+        "expectedAOV": "$51.99"
+      },
+      "dataSources": {
+        "googleTrends": "0/100 (United States 🇺🇸)",
+        "ebayDemand": "51/100 (sold listings)",
+        "aliExpressOrders": "39/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": []
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Car LED Ambient Light — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Car LED Ambient Light before it went viral\"",
+        "\"The Car LED Ambient Light hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Car LED Ambient Light — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Car LED Ambient Light — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Car LED Ambient Light is going viral in United States 🇺🇸...",
+        "script": "I tried Car LED Ambient Light for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#carledambientlight #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "60%",
+        "sellers": "1500+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=car%20led%20ambient%20light",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=car%20led%20ambient%20light",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=car%20led%20ambient%20light",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=car%20led%20ambient%20light",
+        "tiktokVideos": "https://www.tiktok.com/search?q=car%20led%20ambient%20light",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=car%20led%20ambient%20light",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=car%20led%20ambient%20light%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    },
+    {
+      "id": 8,
+      "rank": 10,
+      "name": "Beeswax Food Wraps",
+      "category": "Eco",
+      "filter": "food",
+      "description": "🔍 Rising searches: \"beeswax food wraps\", \"beeswax wraps\", \"beeswax food wrap diy\" — real signal from Google Trends.",
+      "whyBuy": "Real-time signal: Google Trends 0/100 in United States 🇺🇸. eBay sold listings score: 48/100. AliExpress order volume: 33/100. Reddit community buzz: 0/100.",
+      "sellPrice": 24.99,
+      "supplierCost": 5,
+      "margin": 80,
+      "shipping": "$3–$5",
+      "delivery": "7–14 days",
+      "weight": "~200g",
+      "storeType": "Niche Brand",
+      "branded": true,
+      "subscription": true,
+      "bundle": true,
+      "scores": {
+        "overall": 48,
+        "trend": 0,
+        "trendNorm": 10,
+        "demand": 48,
+        "virality": 12,
+        "competition": 61,
+        "profit": 88,
+        "branding": 90,
+        "repeat": 60,
+        "problemSolving": 68,
+        "impulse": 88,
+        "shipping": 95,
+        "evergreen": 83,
+        "gift": 74,
+        "margin": 80,
+        "ebayDemand": 48,
+        "aliOrders": 33,
+        "redditBuzz": 0
+      },
+      "verdict": "NO",
+      "confidence": 48,
+      "verdictReason": "Moderate signals in United States 🇺🇸. Validate further before scaling.",
+      "pricing": {
+        "cost": 5,
+        "sell": 24.99,
+        "premium": 32.49,
+        "bundle": 42.48,
+        "anchor": "~~$37.48~~ Now $24.99"
+      },
+      "finance": {
+        "grossMargin": "80%",
+        "netMargin": "35%",
+        "breakevenROAS": "1.9×",
+        "targetCPA": "$6–$9",
+        "expectedAOV": "$32.49"
+      },
+      "dataSources": {
+        "googleTrends": "0/100 (United States 🇺🇸)",
+        "ebayDemand": "48/100 (sold listings)",
+        "aliExpressOrders": "33/100 (order volume)",
+        "redditBuzz": "0/100 (community mentions)",
+        "relatedSearches": [
+          "beeswax food wraps",
+          "beeswax wraps",
+          "beeswax food wrap diy"
+        ]
+      },
+      "risks": [
+        {
+          "risk": "Supplier quality",
+          "level": "medium"
+        },
+        {
+          "risk": "Market competition",
+          "level": "medium"
+        }
+      ],
+      "hooks": [
+        "\"Beeswax Food Wraps — watch what happened after 7 days\" (Trending in United States 🇺🇸)",
+        "\"POV: You discovered Beeswax Food Wraps before it went viral\"",
+        "\"The Beeswax Food Wraps hack everyone in United States 🇺🇸 is talking about\""
+      ],
+      "fbAd": {
+        "primary": "Discover Beeswax Food Wraps — trending now in United States 🇺🇸. Real results. Limited stock. 30-day guarantee.",
+        "headline": "Beeswax Food Wraps — Try Risk Free",
+        "cta": "Shop Now"
+      },
+      "tiktokAd": {
+        "hook": "This Beeswax Food Wraps is going viral in United States 🇺🇸...",
+        "script": "I tried Beeswax Food Wraps for 7 days and here are my real results. Trending right now. Link in bio.",
+        "hashtags": "#beeswaxfoodwrap #ecommerce #viral #trending"
+      },
+      "competition": {
+        "level": "Medium",
+        "saturation": "61%",
+        "sellers": "1525+ est.",
+        "gap": "Premium branding + local market focus"
+      },
+      "emotionalTriggers": [
+        "Curiosity",
+        "FOMO",
+        "Problem solving",
+        "Social proof"
+      ],
+      "customer_avatar": {
+        "name": "Trend-conscious shopper",
+        "age": "25–40",
+        "occupation": "Professional",
+        "income": "$45k–$85k",
+        "goals": "Find quality products first",
+        "frustrations": "Wasted money on bad products",
+        "platforms": [
+          "TikTok",
+          "Instagram",
+          "Reddit"
+        ]
+      },
+      "scaling": {
+        "brand": true,
+        "multiSKU": true,
+        "subscription": "Refills/accessories",
+        "international": true
+      },
+      "links": {
+        "amazon": "https://www.amazon.com/s?k=beeswax%20food%20wrap",
+        "alibaba": "https://www.alibaba.com/trade/search?SearchText=beeswax%20food%20wrap",
+        "aliexpress": "https://www.aliexpress.com/wholesale?SearchText=beeswax%20food%20wrap",
+        "tiktokAds": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/pc/en?period=7&keyword=beeswax%20food%20wrap",
+        "tiktokVideos": "https://www.tiktok.com/search?q=beeswax%20food%20wrap",
+        "metaAds": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=beeswax%20food%20wrap",
+        "youtubeShorts": "https://www.youtube.com/results?search_query=beeswax%20food%20wrap%20ad%20video"
+      },
+      "region": "US",
+      "regionName": "United States 🇺🇸"
+    }
+  ]
+}
